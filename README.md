@@ -1,5 +1,4 @@
-# Findrr - Lost & Found React App
-<img src="https://cdn.discordapp.com/attachments/942021734767423488/964849231481413672/image_1.png" width=50% height=auto style="border-radius: 10px"> 
+# MISSING PIECES - Lost & Found React App
 
 ## Table of Contents
 
@@ -10,18 +9,7 @@
 
 ## About
 In just two weeks, around 22 emails have flooded your inbox as well.
-To de-clutter our inbox, we've developed Findrr to provide a platform for such query/problem.
-
-## Gallery
-Feed Page            |  Item Page
-:-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/942021734767423488/964844499853508608/unknown.png)  |  ![](https://cdn.discordapp.com/attachments/942021734767423488/964844425958293525/unknown.png)
-
-Profile Page            |  Querry Page
-:-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/942021734767423488/964845942488576070/unknown.png)  |  ![image](https://user-images.githubusercontent.com/86405648/163672919-8c9953c4-b79e-4a16-a325-bcd315fa4908.png)
-
-
+To de-clutter our inbox, we've developed MISSING PIECES to provide a platform for such query/problem.
 
 ## Usage
 Initializing project by installing dependencies
